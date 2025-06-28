@@ -3,7 +3,7 @@
 A basic clone of the Hotstar UI built using **HTML**, **CSS**, and **JavaScript**, replicating the look and feel of the original streaming platform.
 
 🎨 Created for practice and educational purposes.  
-🚀 Deployed on [CodeSandbox](https://codesandbox.io/) (link your project here).
+🚀 Deployed on [CodeSandbox]   https://codesandbox.io/s/github/Jobin567/hotstar
 
 ---
 
